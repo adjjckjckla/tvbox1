@@ -1,0 +1,78 @@
+
+
+{
+    "urls": [
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "请选择以下接口"
+        },    
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "1云星"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "2刚刚"
+        },
+        {
+            "url": "http://肥猫.love",
+            "name": "3Panda"
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "4唐三"
+        },                
+        {
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "5饭"
+        },                             
+        {
+            "url": "http://byyds.top/w.txt",
+            "name": "6分享君"
+        },        
+        {
+            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "name": "7小马接口"
+        },
+        {
+            "url": "https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0",
+            "name": "8星河接口"
+        },                      
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "9南风"
+        },   
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "10推送"
+        },       
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "11吾爱"
+        },            
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "12老刘"
+        },
+        {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "13线路〔多条线路〕"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "name": "14线路〔多条线路〕"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "15接口〔多条线路〕"
+        }
+        
+
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
